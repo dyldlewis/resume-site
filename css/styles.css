@@ -1,0 +1,37 @@
+h1.labrador{
+
+  color: blue;
+  font-family: sans-serif;
+  text-align: center;
+
+
+}
+
+h3.chess{
+  color: red;
+  font-style: italic;
+  font-weight: bolder;
+
+}
+
+.list1{
+  color: green;
+  font-family: serif;
+
+}
+
+
+.list2{
+  color red;
+  font-family: monospace;
+  text-decoration: underline;
+
+}
+
+
+.list3{
+  color: blue;
+  text-decoration: line-through;
+
+
+}
